@@ -12,7 +12,7 @@ author:
   email: JanusFlynn@gmail.com
   github: liujianfei
   twitter: jeflyliu
-  pinterest: 
+  pinterest: janusflynn
   linkedin: janusflynn
   bio: Easy come, easy go.
   email_md5: da7c3c4dc40beda7111b492125811e0c
@@ -29,11 +29,11 @@ BASE_PATH: http://liujianfei.github.io
 # Do not put a "/" at the end of the url.
 #
 # CNAME (http://yourcustomdomain.com)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK
 #   (urls will be prefixed with "/" and work relatively)
 #
 # GitHub Pages (http://username.github.io)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
+#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK
 #   (urls will be prefixed with "/" and work relatively)
 #
 # GitHub Project Pages (http://username.github.io/project-name)
