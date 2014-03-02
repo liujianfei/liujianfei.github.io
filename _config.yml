@@ -20,7 +20,6 @@ author:
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-resumes_path: resumes.html
 
 BASE_PATH: http://liujianfei.github.io
 

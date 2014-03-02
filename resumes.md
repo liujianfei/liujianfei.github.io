@@ -1,8 +1,10 @@
 ---
+layout: page
 title: 个人简历
+tagline:
 ---
 
-···
+```
 {
   Name: 刘剑飞,
   Sex: 男,
@@ -13,4 +15,4 @@ title: 个人简历
   Telephone: 18857894769,
   Email:janusflynn@gmail.com
 }
-···
+```
