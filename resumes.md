@@ -17,6 +17,7 @@ tagline:
 }
 ```
 #### 专业技能
+* 2年PHP开发经验，半年前端开发经验
 * 熟悉PHP、Java开发语言，熟悉CI、Yii、Laravel框架，有Discuz、Ecshop二次开发经验
 * 熟悉html、DIV+CSS、Javascript、Ajax等技术进行页面设计，熟悉JQuery、Bootstrap
 * 掌握MySQL、MongoDB、SQL Server等数据库，能编写高效复杂的SQL语句、存储过程，有查询优化经验
