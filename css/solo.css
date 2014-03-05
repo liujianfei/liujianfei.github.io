@@ -7,7 +7,7 @@ html {
 
 @media (min-width: 30rem) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -18,7 +18,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 3rem;
+    margin-top: 2rem;
   }
 }
 
@@ -47,7 +47,7 @@ h1 {
 @media (min-width: 30rem) {
   h1 {
     font-size: 3rem;
-    margin-bottom: 0rem;
+    margin-bottom: 1rem;
   }
 }
 
