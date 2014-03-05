@@ -1,3 +1,7 @@
+---
+layout: default
+title: Resume
+---
 # 刘剑飞
 
 - 性别：男
@@ -16,7 +20,8 @@
 + __2012/03 - 至今，杭州嘉图科技有限公司__（[garmentoffice.com](http://www.garmentoffice.com/)）
 主要负责好订单网（[haodingdan.com](http://www.haodingdan.com/)）服装行业B2B交易平台开发，
 项目基于PHP（CodeIgniter）+MySQL（主）+MongoDB（辅）+Memcached，
-为团队主力开发人员，独立开发资金交易RESTful api接口、二次开发Discuz商圈，新技术推导者，其中composer、Laravel-Database已成团队常用工具。
+为团队主力开发人员，独立开发资金交易RESTful api接口、二次开发Discuz商圈，
+新技术推导者，其中composer、Laravel-Database已成团队常用工具。
 参与项目需求分析，进行系统框架和整体功能模块的详细设计及规划，编写相应的技术文档、使用手册。
 
 ### 专业技能
