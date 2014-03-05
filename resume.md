@@ -1,7 +1,3 @@
----
-layout: default
-title: Resume
----
 # 刘剑飞
 
 - 性别：男
@@ -12,12 +8,12 @@ title: Resume
 
 #### 工作经验
  
-+ __2011/08 - 2012/02，嘉兴绿浪视觉电子商务有限公司__（[greensea.com.cn](http://www.greensea.com.cn/)）    
++ **2011/08 - 2012/02，嘉兴绿浪视觉电子商务有限公司**（[greensea.com.cn](http://www.greensea.com.cn/)）    
 与团队3人负责开发与维护公司主站，个人主要负责切图、html页面制作、页面交互效果（基本特效都用KISSY编写）。
 期间自学PHP，配合团队为公司开发ERP系统、嘉兴移动打折网，项目都基于PHP（Yii framework）+MySQL。
 个人单独二次开发过Ecshop。
 
-+ __2012/03 - 至今，杭州嘉图科技有限公司__（[garmentoffice.com](http://www.garmentoffice.com/)）     
++ **2012/03 - 至今，杭州嘉图科技有限公司**（[garmentoffice.com](http://www.garmentoffice.com/)）     
 主要负责好订单网（[haodingdan.com](http://www.haodingdan.com/)）服装行业B2B交易平台开发，
 项目基于PHP（CodeIgniter）+MySQL（主）+MongoDB（辅）+Memcached，
 为团队主力开发人员，独立开发资金交易RESTful api接口、二次开发Discuz商圈，
@@ -35,8 +31,8 @@ title: Resume
 
 #### 教育经历
 
-+ __2009/09 - 2012/06，湖南科技职业学院，软件技术__  
-《JAVA面向对象编程》《JAVA程序设计》《C++》《数据结构》《UML软件建模》《Linux操作系统》《软件工程》《SQL Server2005数据库》《软件测试》
++ **2009/09 - 2012/06，湖南科技职业学院，软件技术，大专**  
+《JAVA面向对象编程》《C++》《数据结构》《UML软件建模》《Linux操作系统》《SQL Server2005数据库》《软件测试》
 
 #### 自我评价
 为人乐观真诚，做事认真负责，能够沟通协调好工作中所遇到的问题，具有团队精神，学习能力强，乐于交流互补知识，对新事物、新概念狂热。
