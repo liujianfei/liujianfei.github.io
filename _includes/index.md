@@ -1,7 +1,3 @@
----
-layout: default
-title: Resume
----
 # 刘剑飞
 
 - 性别：男
