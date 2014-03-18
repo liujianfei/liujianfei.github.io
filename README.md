@@ -1,63 +1,40 @@
-# Solo ([Live Demo](http://chibicode.github.io/solo/))
+# Jekyll-Bootstrap
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
-## Solo is useful if...
-
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
-
-## Examples
-
-* This page itself is built with Solo. Try it out from [the github repo](https://github.com/chibicode/solo).
-* [My personal site](http://chibicode.com) is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/chibicode.com/blob/gh-pages/_includes/index.md).
-* Two of my Japanese personal sites ([#1](http://j.chibicode.com/) and [#2](http://waza.chibicode.com/)) are also built with Solo.
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/poole/poole). Start Jekyll and you should see this page up and running.
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-**The main file you'll be editing is `_includes/index.md`**. This becomes the content for the main `index.html`.
+## Version
 
-### Other Files
+0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
 
-* Edit `_config.yml` to change the site title.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
+However, the actual API has not changed at all.
+You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
 
-### Don't use `<h1>` tags
+## Contributing
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
 
-### Supported Tags
+To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+This is very important as it allows me to accept your pull request without having to publish a public version release.
 
-Solo supports lists, `<hr>`s, `<table>`s,
+Small, atomic Features, bugs, etc.
+Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
+Please rebase as often as possible when working.
+Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
 
-> blockquotes, and...
+For Big Features or major API extensions/edits:
+This is the one case where I'll accept pull-requests based off the master branch.
+This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
+Translation : it might take a bit longer so please be patient! (but sincerely thank you).
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+**Jekyll-Bootstrap Documentation Website.**
 
-### Keep Solo up to date
+The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
 
-## Author
+## License
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
-
-<a href="https://github.com/chibicode/solo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+[MIT](http://opensource.org/licenses/MIT)
