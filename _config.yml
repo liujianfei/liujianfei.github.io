@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Janus Flynn's Blog
-tagline: Easy come,easy go
+title : 拙剑无锋的博客
+tagline: 程序员只有代码才能形容他
 author :
   name : Janus Flynn
   email : janusflynn@email.com
